@@ -1,0 +1,7 @@
+C:\Users\WeCanCodeIT\source\repos\BridgeProjects\BankAccount\BankAccount\bin\Debug\BankAccount.exe.config
+C:\Users\WeCanCodeIT\source\repos\BridgeProjects\BankAccount\BankAccount\bin\Debug\BankAccount.exe
+C:\Users\WeCanCodeIT\source\repos\BridgeProjects\BankAccount\BankAccount\bin\Debug\BankAccount.pdb
+C:\Users\WeCanCodeIT\source\repos\BridgeProjects\BankAccount\BankAccount\obj\Debug\BankAccount.csprojAssemblyReference.cache
+C:\Users\WeCanCodeIT\source\repos\BridgeProjects\BankAccount\BankAccount\obj\Debug\BankAccount.csproj.CoreCompileInputs.cache
+C:\Users\WeCanCodeIT\source\repos\BridgeProjects\BankAccount\BankAccount\obj\Debug\BankAccount.exe
+C:\Users\WeCanCodeIT\source\repos\BridgeProjects\BankAccount\BankAccount\obj\Debug\BankAccount.pdb
