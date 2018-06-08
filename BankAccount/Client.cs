@@ -26,9 +26,21 @@ namespace BankAccount
         }
 
         //method
-        public void GetClient()
+        public string GetClient(int num)
         {
-            
+            if (num==1)
+            {
+                return Name;
+            }
+            else if (num==2)
+            {
+                return PhoneNumber;
+            }
+            else if (num==3)
+            {
+                return Address;
+            }
+            return "";
         }
 
     }

@@ -34,6 +34,13 @@ namespace BankAccount
                 Console.Write("how much do you want to deposit into your savings account: ");
                 depositMoney = double.Parse(Console.ReadLine());
             }
+
+            //Get Client 
+            Client person = new Client("joe","440","123");
+            for (int i=1; i<4;i++)
+            {
+                Console.WriteLine(person.GetClient(i));
+            }
         }
     }
 }
